@@ -1,5 +1,5 @@
-Pizza
-Burgers
-Blood of my enemies
-sushi
-burgers
+Pizza [pie]
+Burgers [sandwich]
+Blood of my enemies [delicious drink]
+sushi [fish]
+burgers [also sandwich]
